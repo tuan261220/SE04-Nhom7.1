@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        CustomArFragment customArFragment = getSupportFragmentManager().findFragmentById(R.id.arFragment);
+        CustomArFragment customArFragment = (CustomArFragment) getSupportFragmentManager().findFragmentById(R.id.arFragment);
 
         ModelRenderable
                 .builder().setSource(this, R.raw.imperial_knight_helmet_3)
