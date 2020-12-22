@@ -332,7 +332,7 @@ public class AugmentedFacesActivity extends AppCompatActivity implements GLSurfa
 //        face.getRegionPose(RegionType.NOSE_TIP).toMatrix(noseMatrix, 0);
 //        noseObject.updateModelMatrix(noseMatrix, scaleFactor);
 //        noseObject.draw(viewMatrix, projectionMatrix, colorCorrectionRgba, DEFAULT_COLOR);
-        face.getRegionPose(RegionType.NOSE_TIP).toMatrix(helmetMatrix, 0);
+//        face.getRegionPose(RegionType.NOSE_TIP).toMatrix(helmetMatrix, 0);
         helmetObject.updateModelMatrix(helmetMatrix, scaleFactor);
         helmetObject.draw(viewMatrix, projectionMatrix, colorCorrectionRgba, DEFAULT_COLOR);
       }
