@@ -1,2 +1,1 @@
-### Mô tả
 Model 3D sau khi chỉnh Blender để phù hợp với mặt
