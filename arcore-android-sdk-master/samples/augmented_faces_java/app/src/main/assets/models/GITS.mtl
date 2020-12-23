@@ -1,0 +1,38 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Eyes.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Dell\\AppData\\Local\\Temp\\gltfimg-e_16tywa\\Image_2.png
+map_Kd C:\\Users\\Dell\\AppData\\Local\\Temp\\gltfimg-yqf6twac\\Image_1.jpg
+
+newmtl Face.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Dell\\AppData\\Local\\Temp\\gltfimg-8ui7aqe4\\Image_5.png
+map_Kd C:\\Users\\Dell\\AppData\\Local\\Temp\\gltfimg-ykv1ruuc\\Image_4.jpg
+
+newmtl Face02.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Dell\\AppData\\Local\\Temp\\gltfimg-5qa7085n\\Image_8.png
+map_Kd C:\\Users\\Dell\\AppData\\Local\\Temp\\gltfimg-gvua4tlp\\Image_7.jpg

@@ -237,10 +237,16 @@ public class AugmentedFacesActivity extends AppCompatActivity implements GLSurfa
 //          this, "models/forehead_left.obj", "models/ear_fur.png");
 //      leftEarObject.setMaterialProperties(0.0f, 1.0f, 0.1f, 6.0f);
 //      leftEarObject.setBlendMode(ObjectRenderer.BlendMode.AlphaBlending);
+//      helmetObject.createOnGlThread(
+//              /*context=*/ this,
+//              "models/witchhelmet.obj",
+//              "models/witch.jpg");
+//      helmetObject.setMaterialProperties(0.0f, 1.0f, 0.1f, 6.0f);
+//      helmetObject.setBlendMode(ObjectRenderer.BlendMode.AlphaBlending);
       helmetObject.createOnGlThread(
               /*context=*/ this,
-              "models/witchhelmet.obj",
-              "models/witch.jpg");
+              "models/GITS.obj",
+              "models/GITS.jpeg");
       helmetObject.setMaterialProperties(0.0f, 1.0f, 0.1f, 6.0f);
       helmetObject.setBlendMode(ObjectRenderer.BlendMode.AlphaBlending);
 
