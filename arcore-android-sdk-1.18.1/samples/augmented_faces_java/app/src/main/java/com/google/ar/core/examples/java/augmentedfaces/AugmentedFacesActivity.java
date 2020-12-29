@@ -291,18 +291,6 @@ public class AugmentedFacesActivity extends AppCompatActivity implements GLSurfa
         face.getCenterPose().toMatrix(modelMatrix, 0);
         augmentedFaceRenderer.draw(
             projectionMatrix, viewMatrix, modelMatrix, colorCorrectionRgba, face);
-
-        // 2. Next, render the 3D objects attached to the forehead.
-//        face.getRegionPose(RegionType.FOREHEAD_RIGHT).toMatrix(rightEarMatrix, 0);
-//        rightEarObject.updateModelMatrix(rightEarMatrix, scaleFactor);
-//        rightEarObject.draw(viewMatrix, projectionMatrix, colorCorrectionRgba, DEFAULT_COLOR);
-//
-//        face.getRegionPose(RegionType.FOREHEAD_LEFT).toMatrix(leftEarMatrix, 0);
-//        leftEarObject.updateModelMatrix(leftEarMatrix, scaleFactor);
-//        leftEarObject.draw(viewMatrix, projectionMatrix, colorCorrectionRgba, DEFAULT_COLOR);
-
-        // 3. Render the nose last so that it is not occluded by face mesh or by 3D objects attached
-        // to the forehead regions.
         face.getRegionPose(RegionType.NOSE_TIP).toMatrix(noseMatrix, 0);
         noseObject.updateModelMatrix(noseMatrix, scaleFactor);
         noseObject.draw(viewMatrix, projectionMatrix, colorCorrectionRgba, DEFAULT_COLOR);
