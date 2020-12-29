@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl _VMaskMat_VMask
+Ns 50.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cadnav-1G009130546\\cadnav.com_model\\Model_D0901D48\\B-nen-VMaskCol.jpg
