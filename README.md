@@ -16,18 +16,16 @@
 - Xử lý Augmented Faces
 ```
 ##  Môi trường Cài đặt 
-```
-- Android Studio bản preview mới nhất tại: https://developer.android.com/studio/preview
-- Các thiết bị hỗ trợ : https://developers.google.com/ar/discover/supported-devices?fbclid=IwAR3Mxcrjl4DXbORwoJVhuRqDItcz9Nxy4dasD1Tt7JFlLpqMGQyE5-YEmiQ
-```
+* Android Studio bản preview mới nhất tại: https://developer.android.com/studio/preview
+* Các thiết bị hỗ trợ : https://developers.google.com/ar/discover/supported-devices?fbclid=IwAR3Mxcrjl4DXbORwoJVhuRqDItcz9Nxy4dasD1Tt7JFlLpqMGQyE5-YEmiQ
+
 ## Công nghệ sử dụng
-```
-- ARCore là một nền tảng của Google dùng để trải nghiệm thực tế ảo tăng cường. ARCore sử dụng các API khác nhau, giúp điện thoại của bạn có thể cảm nhận được môi trường xung quanh, hiểu được thế giới thực và tương tác với các thông tin trong thế giới thực
+
+* ARCore là một nền tảng của Google dùng để trải nghiệm thực tế ảo tăng cường. ARCore sử dụng các API khác nhau, giúp điện thoại của bạn có thể cảm nhận được môi trường xung quanh, hiểu được thế giới thực và tương tác với các thông tin trong thế giới thực
 Nguồn : https://developers.google.com/ar/develop/java
-```
+
 ## DEMO ỨNG DỤNG
-```
+
 Video demo: https://www.youtube.com/watch?v=XKiz1bdHI4I
-```
 
 
