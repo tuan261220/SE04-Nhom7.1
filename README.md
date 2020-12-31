@@ -2,11 +2,13 @@
 # ĐỀ TÀI : Tìm hiểu về ARcore
 # TEACHER : BÙI SỸ NGUYÊN
 # STUDENT:
+```
 * PHẠM QUANG TUẤN
 * BÙI VĂN THUỶ
 * TRẦN CÔNG THÀNH
 * ĐINH HOÀNG TÙNG
 * PHẠM HỒNG PHÚC
+```
 
 ## GIỚI THIỆU VÀ MỤC TIÊU VỀ ỨNG DỤNG
 ```
